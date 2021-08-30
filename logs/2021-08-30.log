@@ -1,0 +1,658 @@
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6689 - 2224.363 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6689 - 1588.470 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 3593.544 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 15821.774 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6689 - 1390.669 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 10245.948 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 1771.253 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 10112.667 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6689 - 73.843 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 84.766 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 212.625 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 76.317 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 77.710 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=ivysaur 200 172188 - 175.166 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 77.634 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 81.959 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 90.014 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=unown 200 17578 - 226.130 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 80.073 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 200 29318 - 100.497 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6689 - 5173.763 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 5110.154 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 15418.355 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 80.056 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 200 29318 - 103.801 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 117.098 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 83.314 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 97.703 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 76.477 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 73.379 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 103.741 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 190.939 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 680.626 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=dunsparce 200 234584 - 327.342 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 200 68 - 10227.622 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=dunsparce 200 68 - 10129.954 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 200 68 - 10236.095 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=dunsparce 304 - - 206.675 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=dunsparce 304 - - 211.900 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 332.460 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 84.490 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 200 187383 - 190.740 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 382.116 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 750.554 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 82.943 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 73.215 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 80.362 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 285.349 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 72.774 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 217.261 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 77.327 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 154.921 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 224.162 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 230.309 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 264.800 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 650.885 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 840.487 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 565.910 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 359.516 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 533.040 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 678.466 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 428.664 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 179.195 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 321.303 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 347.148 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 222.513 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 366.975 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 615.124 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 255.225 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 271.508 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 771.615 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 619.876 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 277.653 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 418.606 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 304 - - 653.333 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 397.855 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 79.722 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 207.679 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 695.782 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 1012.028 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 5203.243 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 194.143 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6689 - 2909.868 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 443.206 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 68 - 30021.771 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 195.895 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 198.191 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 445.178 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 775.500 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 210.503 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 77.482 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 82.292 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=pineco 200 180141 - 427.056 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 85.378 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 200.167 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 208.546 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 448.441 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 347.076 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 609.128 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 481.954 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 236.894 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 700.742 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 257.993 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 239.300 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 241.759 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 177.401 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 8158.469 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 218.625 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 242.472 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 205.897 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 209.533 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 474.874 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 247.740 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 199.236 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 87.737 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=forretress 200 187383 - 197.516 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 107.260 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 200 223249 - 868.755 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 200 68 - 20021.138 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 304 - - 196.992 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 304 - - 192.328 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 304 - - 438.900 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 200 223249 - 3368.154 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 304 - - 209.640 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 92.763 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 201.029 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 68 - 10238.494 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 851.093 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 1049.487 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 208.664 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 209.392 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 208.806 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 174.603 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 188.217 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 152.168 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 235.622 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 202.368 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 232.908 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 103.838 ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 07:08:10 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6689 - 331.295 ms
+
+2021-08-30 09:08:31 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 13492 - 94.385 ms
+
+2021-08-30 09:08:31 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 13492 - 658.145 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 209.933 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 226.127 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 76.257 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=pineco 304 - - 231.852 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 87.616 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 87.937 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 159.007 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 90.473 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 83.335 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 76.988 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 78.334 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 84.942 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 82.203 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 313.159 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 1399.452 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 200 231584 - 5211.628 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 197.991 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 79.450 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 82.652 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 80.248 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 20023.150 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 175.119 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 70.489 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 105.217 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 246.441 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 78.824 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 5243.562 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 10568.184 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 5098.845 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 85.743 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 5086.993 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 15016.421 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 95.955 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 107.002 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 80.815 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 625.178 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 95.722 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 308.951 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 81.869 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 94.457 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 5200.369 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 90.936 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 84.969 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 77.427 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 68 - 10263.612 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 298.178 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 86.151 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 98.424 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 94.736 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 99.742 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 98.142 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 583.170 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 208.666 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 80.910 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 93.468 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 103.289 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 83.857 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 85.930 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 101.978 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 78.514 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 89.452 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 91.302 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 2006.920 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 81.853 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=girafarig 304 - - 200.284 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 79.155 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 84.728 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 93.570 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 86.798 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=qwilfish 200 198355 - 162.645 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 90.515 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 95.990 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 83.238 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 993.555 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 88.159 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=marshtomp 200 166757 - 174.856 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 88.611 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 88.184 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=gligar 304 - - 367.291 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 77.346 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=hariyama 200 180507 - 190.758 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 75.693 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 88.577 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 98.338 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 113.834 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 119.123 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 91.088 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 88.718 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 109.590 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 90.548 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=pineco 304 - - 185.561 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 91.418 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 85.617 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 80.248 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 85.858 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 128.141 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 117.652 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 357.974 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 736.413 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 88.665 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 72.280 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 147.914 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 91.701 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 86.218 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 77.226 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 86.960 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 83.278 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 91.018 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 90.228 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 107.279 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 87.505 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 93.167 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 82.650 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 91.169 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 92.655 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 85.228 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 78.540 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 84.544 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 79.677 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 83.998 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 296.033 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 313.195 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 152.042 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 99.953 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 89.083 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 83.286 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 78.770 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 86.572 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 77.920 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 123.168 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 101.651 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 99.448 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/find?name=wobbuffet 304 - - 105.379 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 123.960 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 - - - - ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 86.978 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 306.319 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 362.862 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 110.619 ms
+
+2021-08-30 10:08:03 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 304 - - 94.230 ms
+
+2021-08-30 12:08:51 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6832 - 3875.252 ms
+
+2021-08-30 12:08:38 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6779 - 5109.052 ms
+
+2021-08-30 12:08:57 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6834 - 158.147 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 401 68 - 10162.000 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6842 - 90.914 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?limit=100&offset=200 200 6842 - 96.955 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?offset=300&limit=100 200 6818 - 829.791 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?offset=100&limit=100 200 6825 - 1531.815 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?offset=100&limit=100 304 - - 5132.582 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?offset=100&limit=100 304 - - 85.773 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?offset=100&limit=100 304 - - 105.158 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?offset=300&limit=100 401 68 - 25026.170 ms
+
+2021-08-30 12:08:58 [Pinkemon Service] http: GET /pinkemon/list?offset=300&limit=100 304 - - 82.473 ms
+
