@@ -31,25 +31,22 @@ const pokemonList = async (req, res) => {
         }
 
         const prevUrlSearchParams = new URLSearchParams(pokeData.data.previous);
-        const prevParams = Object.fromEntries(prevUrlSearchParams.entries());
+        const prevLimitParams = prevUrlSearchParams.get('limit');
+        const prevOffsetParams = prevUrlSearchParams.get('https://pokeapi.co/api/v2/pokemon?offset');
 
         const nextUrlSearchParams = new URLSearchParams(pokeData.data.next);
-        const nextParams = Object.fromEntries(nextUrlSearchParams.entries());
+        const nextLimitParams = nextUrlSearchParams.get('limit');
+        const nextOffsetParams = nextUrlSearchParams.get('https://pokeapi.co/api/v2/pokemon?offset');
 
-        const FixPrevURL = 'http://192.168.1.3:3080/pinkemon/list?offset=100&limit=100';
-        const FixNextURL = 'http://192.168.1.3:3080/pinkemon/list?offset=300&limit=100';
-
-        const FormatedNextURL = FixNextURL;
-        const FormatedPreviousURL = FixPrevURL;
-
-        console.log();
+        const FixPrevURL = process.env.HOST_APP+'/list?offset='+prevOffsetParams+'&limit='+prevLimitParams;
+        const FixNextURL = process.env.HOST_APP+'/list?offset='+nextOffsetParams+'&limit='+nextLimitParams;
 
         return res.status(200).send({
             Message: 'List Pokemon Found',
             Code: '20',
             Data: pokeData.data.results,
-            Next: FormatedNextURL,
-            Previous: FormatedPreviousURL,
+            Next: FixNextURL,
+            Previous: FixPrevURL,
             Total: pokeData.data.count
         });
     

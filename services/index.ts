@@ -3,8 +3,6 @@ import cors from 'cors'
 import morgan, { StreamOptions } from 'morgan'
 import appLogger from "../libs/core/logger/AppLogger"
 import pokemonapi from '../services/routes/pokemonRoute'
-// import employee from '../services/api/routes/employeeRoute'
-// import authorize from '../services/api/routes/accessRoute'
 import express, { Express, Request, Response, NextFunction } from 'express'
 import next from "next"
 
@@ -24,9 +22,7 @@ const skip = () => {
     return env !== "development";
   };
 
-// const prisma = new PrismaClient()
 const dev = process.env.NODE_ENV !== "production";
-// const app = express()
 const app = next({ dev });
 const handle = app.getRequestHandler();
 const port = process.env.PORT || 3080;
@@ -36,7 +32,7 @@ const port = process.env.PORT || 3080;
         await app.prepare()
         // const backend = express()
         const backend: Express = express();
-        const allowedOrigins = ['http://localhost:3000'];
+        // const allowedOrigins = ['http://localhost:3000','http://localhost:3001'];
 
         // Build the morgan middleware
         const morganMiddleware = morgan(
@@ -53,10 +49,11 @@ const port = process.env.PORT || 3080;
         backend.use(morganMiddleware);
         backend.use(express.urlencoded({ extended: false }));
 
-        const options: cors.CorsOptions = {
-            origin: allowedOrigins
-          };
-        backend.use(cors(options))
+        // const options: cors.CorsOptions = {
+        //     origin: allowedOrigins
+        //   };
+        // Set Cors Policy For Access-Control-Allow-Origin from All Host
+        backend.use(cors())
         backend.use(express.json())
         
         // backend.all('/api', (req: Request, res: Response) => {
@@ -78,8 +75,6 @@ const port = process.env.PORT || 3080;
 
         /** Routes */
         backend.use('/pinkemon', pokemonapi)
-        // app.use('/employees', employee)
-        // app.use('/authorizes', authorize)
 
         /** Error handling */
         backend.use((req, res, next) => {
@@ -99,8 +94,3 @@ const port = process.env.PORT || 3080;
         process.exit(1);
     }
 })()
-
-// module.exports = {
-//     path: '/api',
-//     handler: handle
-// }
